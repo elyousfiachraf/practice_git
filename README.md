@@ -1,2 +1,2 @@
 # practice_git
-blaach
+Producing soap web service with Spring
